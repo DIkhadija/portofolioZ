@@ -1153,7 +1153,8 @@ td {
 }
 
 .text-logo {
-    float: left
+    float: left;
+    
 }
 
 .text-logo a {
